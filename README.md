@@ -6,8 +6,8 @@
 ### - 📫 Reach me: luis.furlan@icloud.com
 
 ### Connect with me: 
-
-<img align="left" alt="Instagram" width="26px" src="https://www.instagram.com/luigifurlani/?hl=en" />
+<a href="https://www.linkedin.com/in/luis-furlan-11176b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edianibarrola" height="30" width="40" /></a>
+<a href="https://instagram.com/luigifurlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edianmakesstuff" height="30" width="40" /></a>
 
 <br />
 
