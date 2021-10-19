@@ -1,4 +1,11 @@
-### Hi there 👋
+### Luis Furlan 🤓 
+### I love improving myself and using my skills towards helping others.
+### - 🔭 I’m currently working on NFT / Blockchain
+### - 🌱 I’m currently improving my JavaScript, React, and Python skills
+### - 💬 Ask me about React, HTML, CSS, Python, Music, Art, Books
+### - 📫 Reach me: luis.furlan@icloud.com
+
+Connect with me: 
 
 <!--
 **luigifurlani13/luigifurlani13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
