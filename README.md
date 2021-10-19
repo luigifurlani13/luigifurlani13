@@ -7,6 +7,12 @@
 
 Connect with me: 
 
+<a href="https://instagram.com/luigifurlani">
+  Instagram
+</a>
+<a href="https://www.linkedin.com/in/luis-furlan-11176b212/">
+  LinkedIn
+</a>
 <!--
 **luigifurlani13/luigifurlani13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
