@@ -5,14 +5,9 @@
 ### - 💬 Ask me about React, HTML, CSS, Python, Music, Art, Books
 ### - 📫 Reach me: luis.furlan@icloud.com
 
-Connect with me: 
+### Connect with me: 
 
-<a href="https://instagram.com/luigifurlani">
-  Instagram
-</a>
-<a href="https://www.linkedin.com/in/luis-furlan-11176b212/">
-  LinkedIn
-</a>
+<img align="left" alt="Instagram" width="26px" src="https://www.instagram.com/luigifurlani/?hl=en" />
 
 <br />
 
