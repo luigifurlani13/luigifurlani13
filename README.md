@@ -1,6 +1,8 @@
 <h1 align="center">Luis Furlan</h1>
 
-- I love improving myself and using my skills towards helping others.
+<h3 align="center">I love improving myself and using my skills towards helping others.</h3>
+
+
 - 🔭 I’m currently working on NFT / Blockchain
 - 🌱 I’m currently improving my JavaScript, React, and Python skills
 - 💬 Ask me about React, HTML, CSS, Python, Music, Art, Books
